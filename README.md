@@ -40,7 +40,7 @@ The project exists to simplify the process of locating trustworthy service provi
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/hands-by-hands.git
+    git clone https://github.com/krishmewada911/Capstone.git
     cd hands-by-hands
     ```
 
